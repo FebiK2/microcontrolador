@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: Fin de simulación
+Time: 110 ns  Iteration: 0  Process: /tb_Flag_Register/stim_proc  File: C:/Users/DELL/OneDrive/Desktop/UNIVERSIDAD/QUINTO SEMESTRE/SDI2/laboratorios/Microcontrolador/Registro_Estado_Flag_Reg/Registro_Estado_Flag_Reg.srcs/sources_1/new/tb_Reg_Estado.vhd
+$finish called at time : 110 ns : File "C:/Users/DELL/OneDrive/Desktop/UNIVERSIDAD/QUINTO SEMESTRE/SDI2/laboratorios/Microcontrolador/Registro_Estado_Flag_Reg/Registro_Estado_Flag_Reg.srcs/sources_1/new/tb_Reg_Estado.vhd" Line 87

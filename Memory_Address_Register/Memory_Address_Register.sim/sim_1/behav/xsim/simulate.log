@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: Simulación Completa
+Time: 50 ns  Iteration: 0  Process: /tb_MAR/line__27  File: C:/Users/DELL/OneDrive/Desktop/UNIVERSIDAD/QUINTO SEMESTRE/SDI2/laboratorios/Microcontrolador/Memory_Address_Register/Memory_Address_Register.srcs/sources_1/new/tb_MAR.vhd
+$finish called at time : 50 ns : File "C:/Users/DELL/OneDrive/Desktop/UNIVERSIDAD/QUINTO SEMESTRE/SDI2/laboratorios/Microcontrolador/Memory_Address_Register/Memory_Address_Register.srcs/sources_1/new/tb_MAR.vhd" Line 36

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Registro_Estado_Flag_Reg.srcs/sources_1/new/Flag_Register.vhd" \
+"../../../../Registro_Estado_Flag_Reg.srcs/sources_1/new/tb_Reg_Estado.vhd" \
+
+# Do not sort compile order
+nosort

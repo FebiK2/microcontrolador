@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ALU_Microcontrolador.srcs/sources_1/new/ALU_Main.vhd" \
+"../../../../ALU_Microcontrolador.srcs/sources_1/new/Deco_3a8.vhd" \
+"../../../../ALU_Microcontrolador.srcs/sim_1/new/tb_ALU.vhd" \
+
+# Do not sort compile order
+nosort

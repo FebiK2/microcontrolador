@@ -5,12 +5,12 @@ entity MBR is
     Port ( CLK : in STD_LOGIC;
            Arst : in STD_LOGIC;
            LMBR : in STD_LOGIC;
-           Din : in STD_LOGIC_VECTOR (17 downto 0);
-           Dout : out STD_LOGIC_VECTOR (17 downto 0));
+           Din : in STD_LOGIC_VECTOR (15 downto 0);
+           Dout : out STD_LOGIC_VECTOR (15 downto 0));
 end MBR;
 
 architecture Behavioral_1 of MBR is
-signal data : STD_LOGIC_VECTOR(17 downto 0) := (others => '0');
+signal data : STD_LOGIC_VECTOR(15 downto 0) := (others => '0');
 begin
     process(CLK, Arst, LMBR, Din)
     begin

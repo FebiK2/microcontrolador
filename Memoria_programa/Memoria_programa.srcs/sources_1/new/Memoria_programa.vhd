@@ -9,7 +9,7 @@ end memoria_programa;
 
 architecture Behavioral of memoria_programa is
 
-type mem is array (0 to 199) of std_logic_vector(7 downto 0);
+type mem is array (0 to 199) of std_logic_vector(15 downto 0);
 
 constant rom: mem :=(0 => "1000001000001000",
                      1 => "0000101000000001",

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Memoria_Datos_ScratchPad.srcs/sources_1/new/Scratch_Pad.vhd" \
+"../../../../Memoria_Datos_ScratchPad.srcs/sim_1/new/tb_Scratch_Pad.vhd" \
+
+# Do not sort compile order
+nosort

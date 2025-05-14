@@ -1,0 +1,8 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_Control_Unit_behav xil_defaultlib.tb_Control_Unit -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-3353] formal port 'puertoa' has no actual or default value [C:/Users/DELL/OneDrive/Desktop/UNIVERSIDAD/QUINTO SEMESTRE/SDI2/laboratorios/Microcontrolador/Componentes/Microcontrolador/Microcontrolador.srcs/sources_1/new/Main_Microcontrolador.vhd:5]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit tb_control_unit in library work failed.

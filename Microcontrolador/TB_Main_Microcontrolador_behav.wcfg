@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_Main_Microcontrolador_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB_Main_Microcontrolador" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="240.401 ns"></ZoomEndTime>
+      <Cursor1Time time="5.340 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="185"></NameColumnWidth>
+      <ValueColumnWidth column_width="158"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/TB_Main_Microcontrolador/PuertoA_tb" type="array">
+      <obj_property name="ElementShortName">PuertoA_tb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">PuertoA_tb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Main_Microcontrolador/PuertoB_tb" type="array">
+      <obj_property name="ElementShortName">PuertoB_tb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">PuertoB_tb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Main_Microcontrolador/clk_tb" type="logic">
+      <obj_property name="ElementShortName">clk_tb</obj_property>
+      <obj_property name="ObjectShortName">clk_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Main_Microcontrolador/reset_maestro_tb" type="logic">
+      <obj_property name="ElementShortName">reset_maestro_tb</obj_property>
+      <obj_property name="ObjectShortName">reset_maestro_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Main_Microcontrolador/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Main_Microcontrolador/UUT/PC_out" type="array">
+      <obj_property name="ElementShortName">PC_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_out[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FFD700</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Main_Microcontrolador/UUT/MAR_out" type="array">
+      <obj_property name="ElementShortName">MAR_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">MAR_out[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#E0FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Main_Microcontrolador/UUT/MBR_out" type="array">
+      <obj_property name="ElementShortName">MBR_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">MBR_out[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Main_Microcontrolador/UUT/CAR_out" type="array">
+      <obj_property name="ElementShortName">CAR_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">CAR_out[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Main_Microcontrolador/UUT/ID_out" type="array">
+      <obj_property name="ElementShortName">ID_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_out[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#A0A0A4</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Main_Microcontrolador/UUT/MC_out" type="array">
+      <obj_property name="ElementShortName">MC_out[34:0]</obj_property>
+      <obj_property name="ObjectShortName">MC_out[34:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>
